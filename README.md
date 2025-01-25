@@ -28,5 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harmit3&show_icons=true&locale=en" alt="harmit3" /></p>
 <br/>
 <br/>
-<p><img align="rightr" src="https://github-readme-streak-stats.herokuapp.com/?user=harmit3&" alt="harmit3" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harmit3&" alt="harmit3" /></p>
 <br/>
