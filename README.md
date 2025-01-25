@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/1410hp" target="blank"><img src="https://img.shields.io/twitter/follow/1410hp?logo=twitter&style=for-the-badge" alt="1410hp" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and optimization.**
+- 🌱 I’m currently learning **DSA and Devlopment Tools.**
 
 - 📫 How to reach me **patel62b@uwindsor.ca**
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmit3&show_icons=true&locale=en&layout=compact" alt="harmit3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmit3&show_icons=true&locale=en" alt="harmit3" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harmit3&show_icons=true&locale=en" alt="harmit3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmit3&" alt="harmit3" /></p>
