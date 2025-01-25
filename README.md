@@ -27,10 +27,14 @@
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=harmit3&show_icons=true&locale=en" alt="harmit3" /></p>
-<br>
+
+<p>
+
 
 <br/>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmit3&show_icons=true&locale=en&layout=compact" alt="harmit3" /></p>
+
+</P>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmit3&show_icons=true&locale=en&layout=compact" alt="harmit3" /></p>
 
 
 
