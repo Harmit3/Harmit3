@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmit3&label=Profile%20views&color=0e75b6&style=flat" alt="harmit3" /> </p>
 
-<p align="left"> <a href="https://twitter.com/1410hp" target="blank"><img src="https://img.shields.io/twitter/follow/1410hp?logo=twitter&style=for-the-badge" alt="1410hp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/1410hp" target="blank">Follow Me:<img src="https://img.shields.io/twitter/follow/1410hp?logo=twitter&style=for-the-badge" alt="1410hp" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and Devlopment Tools.**
 
