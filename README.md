@@ -1,5 +1,3 @@
-![logo](https://github.com/Harmit3/Harmit3/blob/main/github-header-image%20(5).png)
-
 <h1 align="center">Hi 👋, I'm Harmit Patel</h1>
 
 
@@ -90,6 +88,6 @@
 
 <br/><br/>
 # 📊 GitHub Stats:
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=harmit3&" alt="harmit3" /></p>
 <p><img  src="https://github-readme-stats.vercel.app/api?username=harmit3&show_icons=true&locale=en"  alt="harmit3" /></p>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=harmit3&show_icons=true&locale=en&layout=compact" alt="harmit3" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=harmit3&" alt="harmit3" /></p>
