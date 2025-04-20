@@ -6,7 +6,7 @@
 🎓 Third-year Computer Science student @ University Of Windsor<br>🌌 Interest in Web3,Networking,Cloud and AI
 
 
-#🌐 Socials:
+# 🌐 Socials:
 <p align="left">
     <a href="https://twitter.com/1410hp" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
