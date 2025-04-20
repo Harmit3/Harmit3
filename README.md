@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harmit Patel</h1>
 
-
-
-<br/><br/>
 # 💫 About Me:
 🎓 Third-year Computer Science student @ University Of Windsor<br>🌌 Interest in Web3,Networking,Cloud and AI
 
-<br/><br/>
 # 🌐 Socials:
 <p align="left">
     <a href="https://twitter.com/1410hp" target="blank"><img align="center"
@@ -20,9 +16,6 @@
             alt="harmit patel" height="30" width="40" /></a>
 </p>
 
-
-
-<br/><br/>
 # 💻 Tech Stack and Tools:
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
@@ -84,10 +77,7 @@
             alt="vuejs" width="40" height="40" /> </a> 
 </p>
 
-
-
-<br/><br/>
 # 📊 GitHub Stats:
-<p><img  src="https://github-readme-stats.vercel.app/api?username=harmit3&show_icons=true&locale=en"  alt="harmit3" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=harmit3&show_icons=true&locale=en&layout=compact" alt="harmit3" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=harmit3&show_icons=true&locale=en"  alt="harmit3" /></p>
+<p align="right"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=harmit3&show_icons=true&locale=en&layout=compact" alt="harmit3" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=harmit3&" alt="harmit3" /></p>
