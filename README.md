@@ -13,7 +13,7 @@
     <a href="https://linkedin.com/in/harmit-patel-0720ab194" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="harmit-patel-0720ab194" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/harmit patel" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/21981754/harmit-patel" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="harmit patel" height="30" width="40" /></a>
 </p>
