@@ -7,7 +7,7 @@
 
 # 🌐 Socials:
 <p align="left">
-    <a href="https://twitter.com/1410hp" target="blank"><img align="center"
+    <a href="https://x.com/harmitwt" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="1410hp" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/harmit-patel-0720ab194" target="blank"><img align="center"
