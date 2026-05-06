@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <p>Hi 👋,I'm Harmit Patel <br>
-🎓 Third-year Computer Science student <br>🌌 Interest in Web3,Networking,Cloud and AI<br>
+🎓Computer Science student <br>🌌 Interest in Softwares,Hardwares,Web3,Networking,Cloud and AI<br>
 </p>
 <br/>
 
