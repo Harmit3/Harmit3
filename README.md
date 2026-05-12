@@ -13,9 +13,11 @@
 # 📊 GitHub Stats:
 
 <p>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=harmit3&" alt="harmit3" />
+    <img src="https://streak-stats.demolab.com/?user=harmit3" alt="harmit3" />
 </p>
 <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=harmit3&show_icons=true&locale=en" alt="harmit3" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harmit3&show_icons=true&locale=en" alt="harmit3" />
 </p>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harmit3&show_icons=true&locale=en&layout=compact" alt="harmit3" /></p>
+<p>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harmit3&show_icons=true&locale=en&layout=compact" alt="harmit3" />
+</p>
